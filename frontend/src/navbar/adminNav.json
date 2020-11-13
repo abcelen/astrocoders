@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Home",
+    "path": "/",
+    "icon": "ion-ios-home"
+  },
+  {
+    "text": "Update User",
+    "path": "/user-list",
+    "icon": "ion-edit"
+  },
+  {
+    "text": "Update syllabus",
+    "path": "/syllabus-admin",
+    "icon": "ion-ios-book"
+  },
+  {
+    "text": "Create Class Code",
+    "path": "/create-code-admin",
+    "icon": "ion-key"
+  },
+  {
+    "text": "Attendees",
+    "path": "/attendees-admin",
+    "icon": "ion-person-add"
+  },
+  {
+    "text": "Groups",
+    "path": "/groups-admin",
+    "icon": "ion-clipboard"
+  },
+  {
+    "text": "Manage Location",
+    "path": "/locations",
+    "icon": "ion-location"
+  }
+]

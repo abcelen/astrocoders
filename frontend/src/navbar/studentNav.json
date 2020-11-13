@@ -1,0 +1,12 @@
+[
+  {
+    "text": "Attend Class",
+    "path": "/",
+    "icon": "ion-clock"
+  },
+  {
+    "text": "Attendance History",
+    "path": "/student-history",
+    "icon": "ion-clipboard"
+  }
+]

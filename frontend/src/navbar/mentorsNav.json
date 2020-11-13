@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Home",
+    "path": "/",
+    "icon": "ion-ios-home"
+  },
+  {
+    "text": "Create Class Code",
+    "path": "/create-code",
+    "icon": "ion-key"
+  },
+  {
+    "text": "Attendees",
+    "path": "/attendees",
+    "icon": "ion-ios-people"
+  },
+  {
+    "text": "Groups",
+    "path": "/groups",
+    "icon": "ion-clipboard"
+  },
+  {
+    "text": "Update Syllabus",
+    "path": "/syllabus",
+    "icon": "ion-ios-book"
+  }
+]
